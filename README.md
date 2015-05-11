@@ -1,6 +1,6 @@
 # [Berlin Clock](http://en.wikipedia.org/wiki/Mengenlehreuhr)
 
-![Berlin Clock](https://goo.gl/ivGfyx "14:14")
+![Berlin Clock](http://i.imgur.com/wqcHc4K.jpg "14:14")
 
 The clock is read from the top row to the bottom.
 
